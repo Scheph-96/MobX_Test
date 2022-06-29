@@ -50,5 +50,6 @@ app.*.map.json
 
 /test/
 /ios/
+/linux/
 /windows/
 /web/
